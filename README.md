@@ -9,8 +9,8 @@ Mi piace costruire applicazioni web scalabili e performanti, curando sia l'archi
 
 ### 🚀 Cosa sto facendo:
 
-* 🎓 Studiando algoritmi e strutture dati in **C/C++** e **Python**.
-* ⚛️ Costruendo web app moderne con **Next.js**, **React** e **Supabase**.
+* 🎓 Studiando algoritmi e strutture dati in **C** e **Javascript ES6**.
+* ⚛️ Costruendo una web app con **PWA** e uso di **tag NFC** e  sincronizzare in **real time**
 * 📱 Sperimentando con lo sviluppo mobile usando **React Native**.
 * 🌐 Ottimizzando le performance e la SEO dei miei progetti.
 
