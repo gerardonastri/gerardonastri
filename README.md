@@ -1,22 +1,22 @@
-# Ciao 👋, sono Gerardo Nastri
+# Hi 👋, I'm Gerardo Nastri
 
-### 👨‍💻 Sviluppatore Fullstack | Studente di Informatica @ UNISA
+### 👨‍💻 Fullstack Developer | Computer Science Student @ UNISA
 
-Sono uno studente del primo anno di **Informatica all'Università degli Studi di Salerno** e uno sviluppatore Fullstack appassionato.
-Mi piace costruire applicazioni web scalabili e performanti, curando sia l'architettura backend che l'esperienza utente frontend. Ho anche competenze in ambito SEO e sviluppo mobile.
-
----
-
-### 🚀 Cosa sto facendo:
-
-* 🎓 Studiando algoritmi e strutture dati in **C** e **Javascript ES6**.
-* ⚛️ Costruendo una web app con **PWA** e uso di **tag NFC** e  sincronizzare in **real time**
-* 📱 Sperimentando con lo sviluppo mobile usando **React Native**.
-* 🌐 Ottimizzando le performance e la SEO dei miei progetti.
+I am a first-year **Computer Science student at the University of Salerno** and a passionate Fullstack Developer.
+I love building scalable and performant web applications, focusing on both backend architecture and frontend user experience. I also have skills in SEO and mobile development.
 
 ---
 
-### 📫 Connettiti con me:
+### 🚀 What I'm Up To:
+
+* 🎓 Studying algorithms and data structures in **C** and **JavaScript ES6**.
+* ⚛️ Building a web app with **PWA**, **NFC tags**, and **real-time** synchronization.
+* 📱 Experimenting with mobile development using **React Native**.
+* 🌐 Optimizing performance and SEO for my projects.
+
+---
+
+### 📫 Connect with me:
 
 <p align="left">
   <a href="https://gerardonastri.tech/" target="_blank">
@@ -34,7 +34,7 @@ Mi piace costruire applicazioni web scalabili e performanti, curando sia l'archi
 
 ### 💻 Tech Stack:
 
-**Linguaggi:**
+**Languages:**
 <p>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JS" />
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TS" />
@@ -62,7 +62,7 @@ Mi piace costruire applicazioni web scalabili e performanti, curando sia l'archi
   <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="Postgres" />
 </p>
 
-**Tools & Altro:**
+**Tools & Others:**
 <p>
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
   <img src="https://img.shields.io/badge/SEO-8AB4F8?style=for-the-badge&logo=google-search-console&logoColor=black" alt="SEO" />
@@ -72,5 +72,5 @@ Mi piace costruire applicazioni web scalabili e performanti, curando sia l'archi
 ---
 
 <p align="center">
-  <i>Grazie per aver visitato il mio profilo! Sentiti libero di contattarmi per collaborazioni.</i>
+  <i>Thanks for visiting my profile! Feel free to contact me for collaborations.</i>
 </p>
